@@ -1,0 +1,80 @@
+[
+    {
+        "symbol": "GARAN.IS",
+        "name": "GARAN.IS",
+        "current_price": "129.30",
+        "change_str": "%-2.05"
+    },
+    {
+        "symbol": "TUPRS.IS",
+        "name": "TUPRS.IS",
+        "current_price": "395.25",
+        "change_str": "%-0.06"
+    },
+    {
+        "symbol": "MGROS.IS",
+        "name": "MGROS.IS",
+        "current_price": "562.50",
+        "change_str": "%-1.83"
+    },
+    {
+        "symbol": "LOGO.IS",
+        "name": "LOGO.IS",
+        "current_price": "135.90",
+        "change_str": "%-1.52"
+    },
+    {
+        "symbol": "EURTRY=X",
+        "name": "EURTRY=X",
+        "current_price": "56.2407",
+        "change_str": "%+0.43"
+    },
+    {
+        "symbol": "EURUSD=X",
+        "name": "EURUSD=X",
+        "current_price": "1.1684",
+        "change_str": "%+0.08"
+    },
+    {
+        "symbol": "GC=F",
+        "name": "GC=F",
+        "current_price": "4624.10",
+        "change_str": "%+2.39"
+    },
+    {
+        "symbol": "HALKB.IS",
+        "name": "HALKB.IS",
+        "current_price": "41.92",
+        "change_str": "%+9.97"
+    },
+    {
+        "symbol": "CRM",
+        "name": "CRM",
+        "current_price": "247.40",
+        "change_str": "%+20.32"
+    },
+    {
+        "symbol": "SI=F",
+        "name": "SI=F",
+        "current_price": "69.39",
+        "change_str": "%+2.07"
+    },
+    {
+        "symbol": "CL=F",
+        "name": "CL=F",
+        "current_price": "82.28",
+        "change_str": "%+0.06"
+    },
+    {
+        "symbol": "OBAMS.IS",
+        "name": "OBAMS.IS",
+        "current_price": "5.41",
+        "change_str": "%+2.08"
+    },
+    {
+        "symbol": "BTCIDR",
+        "name": "BTCIDR",
+        "current_price": "1404474244.00",
+        "change_str": "%-0.68"
+    }
+]
